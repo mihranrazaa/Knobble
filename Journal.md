@@ -16,3 +16,5 @@ created_at: "2026-06-12"
 ![Screenshot](Assets/parts.png)
 
 - Learning more CAD
+- Can't find Symbols and Footprints for the blutooth module.
+
