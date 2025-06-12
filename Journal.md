@@ -20,3 +20,5 @@ created_at: "2026-06-12"
 - Changed some plan and removed RTL-SDR and radio option for V1.
 - Tired can't find all the footprints, it will be more complex creating whole footprint...
 - Finally fixed and almost completed schematics
+- Well it is 13 now technically but I haven't slept so for me it is still same.
+- already started working on the CAD, completed bottom portion paused the pcb part because I got bored doing that, well currently I'm not doing anything just went to bed and writing this journal on phone, I'll add the image of the bottom tomorrow, byee:)
