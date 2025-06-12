@@ -18,4 +18,4 @@ created_at: "2026-06-12"
 - Learning more CAD
 - Can't find Symbols and Footprints for the blutooth module.
 - Changed some plan and removed RTL-SDR and radio option for V1.
-
+- Tired can't find all the footprints, it will be more complex creating whole footprint...
