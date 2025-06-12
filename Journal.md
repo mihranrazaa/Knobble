@@ -15,3 +15,4 @@ created_at: "2026-06-12"
 
 ![Screenshot](Assets/parts.png)
 
+- Learning more CAD
