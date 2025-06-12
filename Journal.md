@@ -11,5 +11,7 @@ created_at: "2026-06-12"
 - Finalized the idea.
 - Created Repo, and tried to add the repo in submission.yml but failed, i guess it is because i did'nt had journal.md .
 - I will first complete the research for parts, then i will start building the PCB. 
+- Finalized the Features and the Parts, Next step is working on PCB.
 
+![Screenshot](Assets/parts.png)
 
