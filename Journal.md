@@ -25,7 +25,6 @@ created_at: "2026-06-12"
 
 **June 13**
 - Almost completed the CAD part I have to again focus on building the PCB dunno why it is making me super bored... and here's the pictures...
-![Screenshot](Assets/body.jpg)
 ![Screenshot](Assets/roughschem.jpg)
 
 - Pausing the project for some time... 
