@@ -28,3 +28,11 @@ created_at: "2026-06-12"
 ![Screenshot](Assets/roughschem.jpg)
 
 - Pausing the project for some time... 
+
+-----
+# New Journal type sh
+
+**JUNE17**
+- ALRIGHT so this will be my final project for highway, and at last I have finalized what this project will be doing, a rtl sdr and rpi based radio, which will not only play conventional fm radio but it can also listen airplanes, emergency radios and other amateur radios, there will be 4 buttons with an oled display and rotary encoder which will be the front end of this project why rpi like no zero, my plan is improving it to become a radiodeck for pentesting and ham radio so it is better to choose a good long term component and rtl sdr is the right and only choice for this project in budget
+- first I will start by schematics ofc I will make one pcb for the all the components except sdr and rpi and those will fit like a hat and the 3d case for enclosure
+- even tho I haven't gotten approval in any of the other two projects of mine I'll try once more to build something ngl I'm feeling a bit hopeless now going to undercity
