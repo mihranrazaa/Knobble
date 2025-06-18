@@ -69,3 +69,8 @@ created_at: "2026-06-12"
 
 Total Time: 8+Hrs
 
+**JUNE 19**
+
+- Added more changes in the cad design i still have to do more changes and make the top part, i also remove the front end individual part as it was making it more complex without any actual need created the window for display and buttons, added port hole for rotary encoder and 3.5 mm dac, i also found the base for my software like that would be the core of my core it will act as a HAL for the system, let's see how this goes and my other projects are not approved it is looking like i'm wasting my time now....
+
+![Screenshot](Assets/rcad2.png)
