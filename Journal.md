@@ -61,3 +61,11 @@ created_at: "2026-06-12"
 ![Screenshot](Assets/rcad.png)
 
 ![Screenshot](Assets/rcad1.png)
+
+
+- Updated more removed the front end, from the base design i will make it as a new part i have added holes so that all the parts connect properly even tho i'm thinking of adding some screws i will make it with pin hole fit can't add clip fit  in this right now i also extruded all the port holes also added SMA port for the extension part, hehe just another idea i will only add screws on top cap cad which will hold all 3 parts of the device..
+
+![Screenshot](Assets/rcad3.png)
+
+Total Time: 8+Hrs
+
