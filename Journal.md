@@ -54,4 +54,10 @@ created_at: "2026-06-12"
 
 - Now the next thing is finalizing the port openings for rtl sdr as the body will be in the case itself i will use a SMA extension to give the antenna port acess from the case, also for the proper placement of rpi and also i have to start working on the coding part of this project which alone will take good amount of time ah final project, still my other two projects are still not got approved lol, i hope they get approved fast...
 
- 
+ **JUNE18**
+- Alight created something ofc there is still a lot to work but now i think i'm getting how the design will be so as, on the next session i will the the lenth of the base as i need RTL SDR to get fit in this i will now remove the front side from the base and make it as another part i will make no screw required body there will be three parts base front side and top side i also have to make holes for the ports, things are going great i think building some 3d project before this really made me comfortable not like pro but i'm not scared building this designs..
+- Here are some images of Pre Raw ALpha Alpha version of the cad design :
+
+![Screenshot](Assets/rcad.png)
+
+![Screenshot](Assets/rcad1.png)
