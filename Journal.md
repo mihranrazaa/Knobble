@@ -67,10 +67,28 @@ created_at: "2026-06-12"
 
 ![Screenshot](Assets/rcad3.png)
 
-Total Time: 8+Hrs
-
-**JUNE 19**
+**Total Time: 8+Hrs**
 
 - Added more changes in the cad design i still have to do more changes and make the top part, i also remove the front end individual part as it was making it more complex without any actual need created the window for display and buttons, added port hole for rotary encoder and 3.5 mm dac, i also found the base for my software like that would be the core of my core it will act as a HAL for the system, let's see how this goes and my other projects are not approved it is looking like i'm wasting my time now....
 
 ![Screenshot](Assets/rcad2.png)
+
+**JUNE19**
+
+- Did a crazy good session of cad, almost created the complete case just need to do somemore pitchpatch i will add some images below, improved the ports design added the name on important and confusing ports added cooling vents for when the rasberry pi cooler works added screw holes properly for M3, added big ah name of the project in the back i also created the top part which is just a plate as i'm thinking of making that plate in acrylic like teeansparent which will look good i added event name in that added foot stand below which also improved the looks of the design i'm still not best in cad but it is looking pretty good to me, i now have start working on the code and improving the cad even more, i also the the power button solution as it was in the box i remebered i something like this in past, i created a tunnel leading to the button now i just need a small iron rod like needle type not sharp ofc and button cap that's it and it will work great fs, added the ports of 3.5 and rotary encoder i also added the snap and fit which i was talking about on the cap i also added screws for safety, the only untouched thing is now the coding part which i have to lock in for other than that here are good amount of pictures i will also use them in the readme file but i still can't add pcb with components and combine them my laptop is not for this kind of stuff but is still handeling pretty well anyways end of yapping here are the images :
+
+![Screenshot](Assets/fcad.png)
+
+![Screenshot](Assets/fcad3.png)
+
+![Screenshot](Assets/fcad5.png)
+
+And here are images of the current final final cad:
+
+![Screenshot](Assets/ffcad.png)
+
+![Screenshot](Assets/ffcad2.png)
+
+- that's it for this session i spend around 3-4 hrs in this i know it's way too much but i'm not the best in cad and my laptop LAGS....
+
+ 
