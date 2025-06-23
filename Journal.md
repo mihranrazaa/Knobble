@@ -136,3 +136,4 @@ And here are images of the current final final cad:
 **EXTRA**
 
 - added logo in the readme
+- alright now it is ready to get submitted i will recheck everything and then submit it..

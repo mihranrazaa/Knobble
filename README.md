@@ -92,6 +92,7 @@ Other than this you just have to purchase the Components given in the BOM and so
 | 180Deg USB adapter            | 1        | for connecting rtl sdr                                                                                                            | -      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Total                         |          |                                                                                                                                   | 180USD |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |                               |          |                                                                                                                                   |        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+
 **I already know it going above 150USD so i'm ready to pay the remaining cost as i already paying for different parts**
 
 ---
@@ -109,6 +110,7 @@ Other than this you just have to purchase the Components given in the BOM and so
 
 ### Challanging
 Building the custom case.. i don't have the words to express my pain...
+
 ---
 
 ## End
