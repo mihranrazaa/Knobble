@@ -91,4 +91,16 @@ And here are images of the current final final cad:
 
 - that's it for this session i spend around 3-4 hrs in this i know it's way too much but i'm not the best in cad and my laptop LAGS....
 
- 
+**JUNE20**
+
+- did more polish to the base removed fillet from some parts and added chafer their it looks more better that way, this will be final v1 also thought of removing the fillet from the pins but i didn't because it won't change anything, fixed the SMA antenna porti didn't know the extrude length is less so fixed that part, i also improved the stand added discs below for better grip and stability so i think the case is pretty much done, now i have to complete the code for the project i have already started working on it finalised the flow of it i will use base libs ofc i'm building with python because so it should be easy to atleast make rtl sdr work...
+- Here are the images of the case v1 :
+
+![Screenshot](Assets/tcad.png)
+
+![Screenshot](Assets/tcad2.png)
+
+![Screenshot](Assets/tcad3.png)
+
+![Screenshot](Assets/tcad4.png)
+
