@@ -23,6 +23,8 @@ created_at: "2026-06-12"
 - Well it is 13 now technically but I haven't slept so for me it is still same.
 - already started working on the CAD, completed bottom portion paused the pcb part because I got bored doing that, well currently I'm not doing anything just went to bed and writing this journal on phone, I'll add the image of the bottom tomorrow, byee:)
 
+---
+
 **June 13**
 - Almost completed the CAD part I have to again focus on building the PCB dunno why it is making me super bored... and here's the pictures...
 ![Screenshot](Assets/roughschem.jpg)
@@ -30,7 +32,10 @@ created_at: "2026-06-12"
 - Pausing the project for some time... 
 
 -----
+
 # New Journal type sh
+
+---
 
 **JUNE17**
 - ALRIGHT so this will be my final project for highway, and at last I have finalized what this project will be doing, a rtl sdr and rpi based radio, which will not only play conventional fm radio but it can also listen airplanes, emergency radios and other amateur radios, there will be 4 buttons with an oled display and rotary encoder which will be the front end of this project why rpi like no zero, my plan is improving it to become a radiodeck for pentesting and ham radio so it is better to choose a good long term component and rtl sdr is the right and only choice for this project in budget
@@ -54,6 +59,8 @@ created_at: "2026-06-12"
 
 - Now the next thing is finalizing the port openings for rtl sdr as the body will be in the case itself i will use a SMA extension to give the antenna port acess from the case, also for the proper placement of rpi and also i have to start working on the coding part of this project which alone will take good amount of time ah final project, still my other two projects are still not got approved lol, i hope they get approved fast...
 
+---
+
  **JUNE18**
 - Alight created something ofc there is still a lot to work but now i think i'm getting how the design will be so as, on the next session i will the the lenth of the base as i need RTL SDR to get fit in this i will now remove the front side from the base and make it as another part i will make no screw required body there will be three parts base front side and top side i also have to make holes for the ports, things are going great i think building some 3d project before this really made me comfortable not like pro but i'm not scared building this designs..
 - Here are some images of Pre Raw ALpha Alpha version of the cad design :
@@ -73,6 +80,8 @@ created_at: "2026-06-12"
 
 ![Screenshot](Assets/rcad2.png)
 
+---
+
 **JUNE19**
 
 - Did a crazy good session of cad, almost created the complete case just need to do somemore pitchpatch i will add some images below, improved the ports design added the name on important and confusing ports added cooling vents for when the rasberry pi cooler works added screw holes properly for M3, added big ah name of the project in the back i also created the top part which is just a plate as i'm thinking of making that plate in acrylic like teeansparent which will look good i added event name in that added foot stand below which also improved the looks of the design i'm still not best in cad but it is looking pretty good to me, i now have start working on the code and improving the cad even more, i also the the power button solution as it was in the box i remebered i something like this in past, i created a tunnel leading to the button now i just need a small iron rod like needle type not sharp ofc and button cap that's it and it will work great fs, added the ports of 3.5 and rotary encoder i also added the snap and fit which i was talking about on the cap i also added screws for safety, the only untouched thing is now the coding part which i have to lock in for other than that here are good amount of pictures i will also use them in the readme file but i still can't add pcb with components and combine them my laptop is not for this kind of stuff but is still handeling pretty well anyways end of yapping here are the images :
@@ -91,6 +100,8 @@ And here are images of the current final final cad:
 
 - that's it for this session i spend around 3-4 hrs in this i know it's way too much but i'm not the best in cad and my laptop LAGS....
 
+---
+
 **JUNE20**
 
 - did more polish to the base removed fillet from some parts and added chafer their it looks more better that way, this will be final v1 also thought of removing the fillet from the pins but i didn't because it won't change anything, fixed the SMA antenna porti didn't know the extrude length is less so fixed that part, i also improved the stand added discs below for better grip and stability so i think the case is pretty much done, now i have to complete the code for the project i have already started working on it finalised the flow of it i will use base libs ofc i'm building with python because so it should be easy to atleast make rtl sdr work...
@@ -104,3 +115,20 @@ And here are images of the current final final cad:
 
 ![Screenshot](Assets/tcad4.png)
 
+---
+
+**JUNE22**
+
+- complete a major portion of code, added 3 options for scanning Auto scan, Preset scan and manual scan via rotary encoder the auto scan steps thrugh rang and pauses on strong signals, the preset scan works for indian frequencies as i'm indian so i added frequencies for india, you can add different presets by changing the code.. i also added support for FM, AM and NFM becuase i'm using a beast rtl sdr and so you can also listen to airplanes radio channels which is pretty exciting and audio will be first yeah forgot to add add ALSA for audio filtering which then will be sent to DAC and our switches should be fully functional like rotary encoder can adjust volume and frequency and if pressed it can toggle scan and mute then there are feautres of switches too, well it does basically work like a normal radio but with added advance features i also added proper shutdown like it willl save the last used state and clears the displaya and gpio, there is no point in adding what problems i had because whatever problem i had it quickly got fixed using a tool called AI lol, anyways i'm also thinking of making a installation script for installing the software on the rpi properly also and yeah my wayboard got rejected which means none of my rpoject got approved which is kind of sad as i'm investing a good amount of time in this but yeah i think that's life for me, but still the wayboard is created to be minimal and simple that's how i like things why should i add jargon like a oled display or something it is a keyboard, well still i also updated its cad a bit anyways got lost ranting my bad anyways i'll add some images for the code snapshots while i was working on the software.
+
+- Here are some images:
+
+![Screenshot](Assets/tcodea.png)
+
+![Screenshot](Assets/tre.png)
+
+---
+**JUNE23**
+
+- Completed the project design some code work left but it is working i will start working on the readme now and submit it today only because not many days are left becuase the submission line closes, i'm a bit confused about where should i put this proejct advance or 6 points? like i need just 150usd other than that i will be paying anyways so i will put in the 6 point project yeah that should work so completing the readme, adding all the files and also i created the installation scipt it will take a bit more time to work perfectly iand i was getting a but too tired working on this porject so i will work on it aftersome time still it is wroking correctly as needed..
+ 
