@@ -102,6 +102,7 @@ Other than this you just have to purchase the Components given in the BOM and so
 
 **I already know it going above 150USD so i'm ready to pay the remaining cost as i already paying for different parts**
 
+"-" represents i will be paying for the component myself..
 ---
 
 ## Extra Stuff
