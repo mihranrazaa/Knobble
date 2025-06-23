@@ -60,6 +60,13 @@ The step files for the keyboard are available in the CAD folder and also in the 
 
 ![Screenshot](Assets/tcad3.png)
 
+You need SMA extension which comes with the rtl sdr kit and connect it with the rtl sdr port and fit the female port in the SMA Antenna Area in the base CAD. 
+other then that u will need a small iron rod or  something similar and a switch to build the button cap to switch it off i already have that  you can build it easily. other than this all the parts will fit perfectly at the defined places.
+
+**Why Case is Big?**
+
+Well this is V1 i don't want to stop working on it I want to make this Fully fledged radio deck like add transmission features too and also wifi capabilities so to do that i wanted to do some experiments like using esp8266, etc so I need some space for fitting all those things in the case and rtl sdr is already long so it helps me both the ways.
+
 ---
 
 ## Combined Images
