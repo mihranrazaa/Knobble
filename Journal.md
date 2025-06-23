@@ -132,3 +132,7 @@ And here are images of the current final final cad:
 
 - Completed the project design some code work left but it is working i will start working on the readme now and submit it today only because not many days are left becuase the submission line closes, i'm a bit confused about where should i put this proejct advance or 6 points? like i need just 150usd other than that i will be paying anyways so i will put in the 6 point project yeah that should work so completing the readme, adding all the files and also i created the installation scipt it will take a bit more time to work perfectly iand i was getting a but too tired working on this porject so i will work on it aftersome time still it is wroking correctly as needed..
  
+----
+**EXTRA**
+
+- added logo in the readme
