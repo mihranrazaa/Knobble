@@ -1,3 +1,4 @@
+
 ---
 title: "Knobble"
 author: "mihranrazaa"
@@ -161,5 +162,11 @@ And here are images of the current final final cad:
 **JUNE29**
 
 - fixing README after that i'll upload it to github and resbumit the project....
+- Further improved port placements and added my name in the back :)
 
+![Screenshot](Assets/ucad.png)
+
+![Screenshot](Assets/ucad2.png)
+
+![Screenshot](Assets/ucad3.png)
 ----

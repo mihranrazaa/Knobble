@@ -64,6 +64,8 @@ The step files for the keyboard are available in the CAD folder and also in the 
 
 ## Combined Images
 
+![Screenshot](Assets/ucad3.png)
+
 ![Screenshot](Assets/ncad.png)
 
 ![Screenshot](Assets/ncad2.png)
