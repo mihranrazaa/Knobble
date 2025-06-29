@@ -137,3 +137,29 @@ And here are images of the current final final cad:
 
 - added logo in the readme
 - alright now it is ready to get submitted i will recheck everything and then submit it..
+
+---
+**JUNE28**
+
+-SO the project got rejected the suggestion was i have to change rpi 5 to zero 2 w so i did but then it started looking a bit wierd so i redesigned the pcb and case making it a handheld radio scanner so first i started with the schematics and pcb design which took me a long time as i wasn't able to decide how i want the case to look after thinking i decided to go for a retro handheld game toy type design and started working on it after the pcb i started working on the case which took me the longest time to build, i started by importing the pcb then creating the base around it then i thought i can put the rotary encoder a bit out like it will look like a walkie-talkie so i revamped the accordingly, actually i first created the base as to rectangle but then i had to break them in two as they  will be of different so i changed the base then the alpha base was completed i then did some fillet and chafer then i started finding dimensions for ports and stuff i tried importing my pcb with components but my laptop can't handle that but i still did it and made the ports, i also added space for waveshare ups for rpi zero 2 w so i added ports for that then then base beta version was done, then i started again started doing some touch ups like size shifting, improving asthetics and i shifted to the top side which i later imported it to my part 1 i.e base to cut area for display and button then i started working for holes for screws but then i dropped the idea as i saw a video for screwless designs which are very good for making it easy to assemble so i did that basically i have to maintain enough friction that they stay in place basically focus on size so i created that and vallah it was done, thankfully rpi zero have same pinout as normal rpi so i didn't had to do any major changes but while making this i also thought of making a mp3 player which can be done so i'll work on that tooo anyways here are all the images captured while making this version:
+
+- Images:
+
+![Screenshot](Assets/nschem.png)
+
+![Screenshot](Assets/npcb.png)
+
+![Screenshot](Assets/npcb3d.png)
+
+![Screenshot](Assets/ncad.png)
+
+![Screenshot](Assets/ncad2.png) 
+
+- I hope this time the project gets approved, i also have to add all the prices in the BOM so i'll do that too...
+
+---
+**JUNE29**
+
+- fixing README after that i'll upload it to github and resbumit the project....
+
+----
