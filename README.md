@@ -1,8 +1,6 @@
 # Knobble
 A modern design for not so common radios.
 
-![Screenshot](Assets/logo.png)
-
 ---
 
 # Overview
